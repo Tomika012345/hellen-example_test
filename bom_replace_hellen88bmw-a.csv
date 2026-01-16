@@ -65,3 +65,5 @@ U6,
 Q600,
 #WBO STM32
 U602,
+
+#include hellen-one/board_id/board_id_hellen88bmw.csv
