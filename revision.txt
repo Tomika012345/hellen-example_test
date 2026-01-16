@@ -1,7 +1,7 @@
 # make sure to increment revision BEFORE any changes to content
 
 BOARD_PREFIX=hellen
-BOARD_SUFFIX=121
+BOARD_SUFFIX=121vag
 BOARD_REVISION=a
 
 # does not affect fab files, only needed to have nice rendered preview
